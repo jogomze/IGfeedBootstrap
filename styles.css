@@ -9,7 +9,7 @@
 .navbar{
     border-bottom: 1px solid lightgray;
 }
-.margen{
+.margin{
     margin-top: 70px;
 }
 .seg-ter{
@@ -22,7 +22,7 @@
 .card-header{
     padding: .75rem 15px;
 }
-.titulo{
+.title{
     display: inline-block;
 }
 .btn-link{
@@ -33,7 +33,7 @@
 .card-body{
     padding: 15px;
 }
-.comentario{
+.comment{
     color: #CDCCCC;
     display: inline-block;
     width: 88%;
